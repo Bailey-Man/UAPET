@@ -14,12 +14,10 @@ UAPET is written in Python and uses the OpenCV library for image processing.
 * Full-Pool Demo
 * User Data Upload
 
-## TODO
-
-1. upload example data
-2. create Jupyter Notebooks:
-    * testing
-3. develop feature demos and tools
+## TODO 8/25
+* Labeling GUI w/ pygame
+* Single-Camera Viz App w/ voila
+* Publish JB to Github Pages
 
 ## Contributions
 
@@ -33,6 +31,8 @@ This project is funded by the Halıcıoğlu Data Science Institute Undergraduate
 6/1/21: Demo planned
 8/1/21: Code and Demo skeleton started
 8/9/21: Repo reinitialized
+8/20/21: Demo started
+8/25/21: Published JB to GitHub Pages
 
 ## References
 
